@@ -1,6 +1,6 @@
 # Code 201: Fundamentos del Desarrollo de Software
 
-Bienvenido a la guía del Instructor para Code 201.
+Bienvenido al curso Code 201.
 
 ## Resumen
 
