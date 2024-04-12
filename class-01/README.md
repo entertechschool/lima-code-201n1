@@ -1,5 +1,10 @@
 # Introducción al Desarrollo
 
+## Grabaciones
+- Ponencia 01 (2024-04-08) - no tuvo grabación.
+- [Taller 01 (2024-04-09)](https://us06web.zoom.us/rec/share/3je-gXL5TLp4t3Mu84EKC43LoRbNzy37KzZA1sFLiksgic2qxwmLpk1BHpgxddqa.d80MgcUEQTzquMi4?startTime=1712707493000)
+- Código de acceso: Solicitar por slack.
+
 ## Resumen
 
 ¡Bienvenido al curso Code 201! En esta clase vamos a repasar los conceptos básicos de HTML, CSS y JavaScript, además de configurar nuestros sistemas para el desarrollo web profesional.
