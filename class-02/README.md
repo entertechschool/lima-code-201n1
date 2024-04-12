@@ -1,5 +1,10 @@
 # Conceptos básicos de HTML, CSS y JS
 
+## Grabaciones
+- [Ponencia 02 (2024-04-10)](https://us06web.zoom.us/rec/share/GHbcwmZ27yAEW3J2phFAsiPggQb6DcwLye6MF6rFf10vM-gVJw-SGl77HHOe_pk.HVUGs7OAbP3hB4Jz)
+- [Taller 02 (2024-04-11)](https://us06web.zoom.us/rec/share/vpc_50fygpeiVYED8-cZT6fJ-LL4w4DcYTmBHwAkeeAbvFdyvZzvkotiuCxoA_Pu.gh9GgbsfQMuhU9cF)
+- Código de acceso: Solicitar por slack.
+
 ## Resumen
 
 Esta clase de centra en practicar con JavaScript, una introducción a los tipos de datos, condicionales y arrays. También aprenderemos sobre Git y Github a un nivel más profundo. El laboratorio requerirá la creación de un nuevo repositorio y usando el flujo de trabajo de git a un nivel básico.
