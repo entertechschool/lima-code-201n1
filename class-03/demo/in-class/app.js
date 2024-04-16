@@ -1,29 +1,53 @@
-// JS: Arrays:
+// Crear un puntaje:
+let score = 0;
 
-let personas = []; // typo de dato = array.
+// 4 oportunidades para responder esta pregunta, sino, le doy la respuesta.
+// usamos while:
+function preguntaSeis() {
+  let years;
+  let attempts = 0;
 
-personas[0] = "bruno"; // En el primer elemento, el dato es String y el valor es 'bruno'.
+  while (years != 33 && attempts < 4) {
+    years = prompt("Cual es mi edad?");
+    if (years < 33) {
+      console.log("Muy bajo");
+    } else if (years > 33) {
+      console.log("Muy alto");
+    } else {
+      score++;
+    }
+    attempts++; // ESTO PREVIENE EL INFINITO.
+  }
+  console.log("Mi edad es 33 años.");
+}
 
-personas[1] = "diego";
+function preguntaSiete() {
+  let coloresFavoritos = ["rojo", "negro", "verde"];
+  let color;
+  let attempts = 1;
+  while (attempts < 7) {
+    color = prompt("Adivina mi color favorito:");
+    color = color.toLowerCase();
+    // Vamos a iterar el arreglo para comparar con la respuesta del usuario:
+    for (let i = 0; i < coloresFavoritos.length; i++) {
+      if (color == coloresFavoritos[i]) {
+        // Si adivinó, incrementamos los attempts para que el while se rompa.
+        // Usamos break, para dejar de comparar.
+        console.log("CORRECTO, adivinaste");
+        score++;
+        attempts = 6;
+        break;
+      } else {
+        console.log(color, "INCORRECTO, intento " + attempts + " de 6");
+      }
+    }
+    attempts++; // ESTO PREVIENE EL INFINITO.
+  }
 
-personas[2] = 678;
+  console.log("Mis colores favoritos son: ", coloresFavoritos);
+}
 
-console.log(personas);
+preguntaSeis();
+preguntaSiete();
 
-// // Quiero reemplazar el 678, por renato.
-
-personas[2] = "renato";
-
-console.log(personas);
-
-// Otra forma de hacer lo mismo en 1 linea:
-
-let hermanos = ["bruno", "diego", ["grabiel", "thomas"], "mariana", null];
-console.log(hermanos);
-
-// Elementos de hermanos:
-// 'bruno' -> String / index: 0
-// 'diego' -> String / index: 1
-// ['gabriel', 'thomas'] -> Array / index: 2
-// 'mariana' -> String / index: 3
-// null -> null / index: 4
+console.log("Tu score es: ", score);
