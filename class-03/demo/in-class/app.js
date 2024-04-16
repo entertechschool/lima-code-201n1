@@ -1,6 +1,14 @@
 // Crear un puntaje:
 let score = 0;
 
+function preguntaUno() {
+  console.log("Pregunta 1");
+}
+
+function preguntaDos() {
+  console.log("Pregunta 2");
+}
+
 // 4 oportunidades para responder esta pregunta, sino, le doy la respuesta.
 // usamos while:
 function preguntaSeis() {
@@ -14,6 +22,7 @@ function preguntaSeis() {
     } else if (years > 33) {
       console.log("Muy alto");
     } else {
+      console.log("CORRECTO, adivinaste");
       score++;
     }
     attempts++; // ESTO PREVIENE EL INFINITO.
@@ -35,8 +44,8 @@ function preguntaSiete() {
         // Usamos break, para dejar de comparar.
         console.log("CORRECTO, adivinaste");
         score++;
-        attempts = 6;
-        break;
+        attempts = 6; // Romper el while.
+        break; // Rompe el for.
       } else {
         console.log(color, "INCORRECTO, intento " + attempts + " de 6");
       }
@@ -47,6 +56,9 @@ function preguntaSiete() {
   console.log("Mis colores favoritos son: ", coloresFavoritos);
 }
 
+preguntaUno();
+preguntaDos();
+// 3, 4, 5
 preguntaSeis();
 preguntaSiete();
 
