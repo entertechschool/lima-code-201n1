@@ -2,7 +2,7 @@
 
 ## Grabaciones
 - [Ponencia 03 (2024-04-15)](https://us06web.zoom.us/rec/share/8lfbdBSnuoDnegqhKPGU3PzYh775uzWUmcL-f3iOPhCjpimn4KpqhElObl6PMWXq.BjFEOBDcTtLbyRLy)
-- [Taller 03 (2024-04-16)]()
+- [Taller 03 (2024-04-16)](https://us06web.zoom.us/rec/share/DNkk6PDaxxqQMw-Bd7FnJzJnsOyU4roIyfY_Ifv2Wh46Lf_Egoz_U4jLEj73RXj2.WyVwS2NWxBHjsGkL) 
 - Código de acceso: Solicitar por slack.
 
 ## Resumen
