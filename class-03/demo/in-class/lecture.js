@@ -27,3 +27,47 @@ console.log(hermanos);
 // ['gabriel', 'thomas'] -> Array / index: 2
 // 'mariana' -> String / index: 3
 // null -> null / index: 4
+
+// JS: while 
+
+// while(condicion){
+//     //codigo a implementar
+// }
+
+// let numero=0
+
+// while(numero<4){
+//     console.log(numero);
+//     numero++;
+// }
+
+// JS:for 
+// for(inicializador,condicion, actualizacion ){
+
+// }
+
+// for( let i=8; i>0;i--){
+//     console.log(i);
+// }
+
+//DRY
+
+// let numbers=[1,2,3,4,5]
+// let sum=0;
+
+// for(let i=0;i<numbers.length;i++){
+//     sum+=numbers[i];
+// }
+// console.log(sum);
+
+function sumaArray(arr){
+    let sum=0;
+
+    for(let i=0;i<arr.length;i++){
+        sum+=arr[i];
+    }
+    return sum;
+}
+
+let arr=[9,4,3,2]
+console.log(sumaArray(arr));
