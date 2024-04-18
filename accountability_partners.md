@@ -4,5 +4,5 @@
 | Georgina   | Anthony |
 | Anthony    | Angel   |
 | Omar       | Ricardo |
-| Angel      | Anthony |
+| Angel      | Georgina |
 | Eva        | --      |
