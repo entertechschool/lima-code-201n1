@@ -1,0 +1,34 @@
+.wrapper {
+    display: flex;
+    background-color: red;
+    padding: 20px;
+    justify-content: space-around;
+}
+
+.wrapper > p {
+    background-color: black;
+    color: white;
+}
+
+.navbar {
+    background-color: green;
+    position: fixed;
+    top: 10vw;
+    left: 50vw;
+}
+
+.container {
+    background-color: blue;
+    width: 100px;
+    height: 100px;
+    position: relative;
+}
+
+.container > .item {
+    background-color: brown;
+    width: 20px;
+    height: 20px;
+    position: absolute;
+    top: 10px;
+    left: 20px;
+}

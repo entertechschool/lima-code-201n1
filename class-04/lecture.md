@@ -31,19 +31,29 @@
     - Si, ya que puedo repetir las instrucciones que quiero aplicar a un valor, N veces, tantos valores contenga el arreglo.
 
 ## Principio DRY
+- DRY: Dont repeat yourself / no repitas tu código.
+- Cuidad la Legibilidad en el código.
+- Mejora la Mantenibilildad en el código.
 
 ## Funciones
 - Scope (ámbito)
+    - El lugar donde viven las variables declaradas en una funcion.
+    - Para trasladar variables de un ambito de funcion afuera, usamos `return`.
 - Con o sin parámetros.
+    - Si tiene parámetros, puedes convertilos en opcionales de 2 formas:
+        1. Dándole un valor por defecto.
+        1. Evaluando si enviaron el argumento necesario (con un `if`).
 - Llamarlas con o sin argumentos.
 - Con o sin retorno.
 
 ## CSS Layout
 - Viewport
+    - El espacio disponible para tu pagina/app web.
 - CSS layout vs. HTML (flujo normal)
+    - CSS layout (Diseño con CSS) nos permite alterar el Flujo Normal de diseño HTML.
 - Flujo Normal
 - Display: block, inline, flex, grid
-- Position: absolute, relative, fixed
-- Float
+- Position: absolute, relative, fixed, sticky, static.
+- Float: left, rigth, center.
 
 

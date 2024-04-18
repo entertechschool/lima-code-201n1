@@ -1,74 +1,105 @@
 // Crear un puntaje:
 let score = 0;
 
+function isEmpty(value) {
+  if (value == "" || value == undefined || value == null || !value) {
+    return true;
+  }
+  return false;
+}
+
+function hacerPregunta(question) {
+  let answer;
+  while (isEmpty(answer)) {
+    answer = prompt(question);
+  }
+  return answer;
+}
+
 function preguntaUno() {
-  
-  let questionOne = prompt('Me gusta volar?');
-  
-  if (questionOne.toLowerCase() === 'si' || questionOne.toLowerCase() === 's') {
-    console.log('Excelente tu respuesta es correcta');
-    alert('Excelente tu respuesta es correcta');
+  // let questionOne;
+  // while (questionOne == "" || questionOne == undefined || questionOne == null) {
+  //   questionOne = prompt("Me gusta volar?");
+  // }
+
+  let questionOne = hacerPregunta("Me gusta volar?");
+
+  if (questionOne.toLowerCase() === "si" || questionOne.toLowerCase() === "s") {
+    console.log("Excelente tu respuesta es correcta");
+    alert("Excelente tu respuesta es correcta");
     score++;
   } else {
-    console.log('Lo siento, tu respuesta es incorrecta');
-    alert('Lo siento, tu respuesta es incorrecta ');
+    console.log("Lo siento, tu respuesta es incorrecta");
+    alert("Lo siento, tu respuesta es incorrecta ");
   }
 }
 
 function preguntaDos() {
-  
-  let questionTwo = prompt('Me gusta los perros?');
-  
-  if (questionTwo.toLowerCase() === 'si' || questionTwo.toLowerCase() === 's') {
-    console.log('Excelente tu respuesta es correcta');
-    alert('Excelente tu respuesta es correcta');
+  // let questionTwo;
+
+  // while (questionTwo == "" || questionTwo == undefined || questionTwo == null) {
+  //   questionTwo = prompt("Me gusta los perros?");
+  // }
+
+  let questionTwo = hacerPregunta("Me gusta los perros?");
+
+  if (questionTwo.toLowerCase() === "si" || questionTwo.toLowerCase() === "s") {
+    console.log("Excelente tu respuesta es correcta");
+    alert("Excelente tu respuesta es correcta");
     score++;
   } else {
-    console.log('Lo siento, tu respuesta es incorrecta');
-    alert('Lo siento, tu respuesta es incorrecta ');
-}
+    console.log("Lo siento, tu respuesta es incorrecta");
+    alert("Lo siento, tu respuesta es incorrecta ");
+  }
 }
 
-function preguntaTres(){
+function preguntaTres() {
+  let questionThree = prompt("Me gusta dibujar?");
 
-  let questionThree = prompt('Me gusta dibujar?');
-  
-  if (questionThree.toLowerCase() === 'no' || questionThree.toLowerCase() === 'n') {
-    console.log('Excelente tu respuesta es correcta');
-    alert('Excelente tu respuesta es correcta');
+  if (
+    questionThree.toLowerCase() === "no" ||
+    questionThree.toLowerCase() === "n"
+  ) {
+    console.log("Excelente tu respuesta es correcta");
+    alert("Excelente tu respuesta es correcta");
     score++;
   } else {
-    console.log('Lo siento, tu respuesta es incorrecta');
-    alert('Lo siento, tu respuesta es incorrecta ');
-}
+    console.log("Lo siento, tu respuesta es incorrecta");
+    alert("Lo siento, tu respuesta es incorrecta ");
+  }
 }
 
-function preguntaCuatro(){
-  let questionFour = prompt('Me gusta dibujar?');
-  
-  if (questionFour.toLowerCase() === 'no' || questionFour.toLowerCase() === 'n') {
-    console.log('Excelente tu respuesta es correcta');
-    alert('Excelente tu respuesta es correcta');
+function preguntaCuatro() {
+  let questionFour = prompt("Me gusta dibujar?");
+
+  if (
+    questionFour.toLowerCase() === "no" ||
+    questionFour.toLowerCase() === "n"
+  ) {
+    console.log("Excelente tu respuesta es correcta");
+    alert("Excelente tu respuesta es correcta");
     score++;
   } else {
-    console.log('Lo siento, tu respuesta es incorrecta');
-    alert('Lo siento, tu respuesta es incorrecta ');
-} 
+    console.log("Lo siento, tu respuesta es incorrecta");
+    alert("Lo siento, tu respuesta es incorrecta ");
+  }
 }
 
-function preguntaCinco(){
-  let questionFive = prompt('Me gusta el futbol?');
-  
-  if (questionFive.toLowerCase() === 'no' || questionFive.toLowerCase() === 'n') {
-    console.log('Excelente tu respuesta es correcta');
-    alert('Excelente tu respuesta es correcta');
+function preguntaCinco() {
+  let questionFive = prompt("Me gusta el futbol?");
+
+  if (
+    questionFive.toLowerCase() === "no" ||
+    questionFive.toLowerCase() === "n"
+  ) {
+    console.log("Excelente tu respuesta es correcta");
+    alert("Excelente tu respuesta es correcta");
     score++;
   } else {
-    console.log('Lo siento, tu respuesta es incorrecta');
-    alert('Lo siento, tu respuesta es incorrecta ');
-} 
+    console.log("Lo siento, tu respuesta es incorrecta");
+    alert("Lo siento, tu respuesta es incorrecta ");
+  }
 }
-
 
 // 4 oportunidades para responder esta pregunta, sino, le doy la respuesta.
 // usamos while:
