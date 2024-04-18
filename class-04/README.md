@@ -1,5 +1,10 @@
 # Funciones en JS, Pair Programming, e Introducción a CSS: Layout
 
+## Grabaciones
+- [Ponencia 04 (2024-04-17)](https://us06web.zoom.us/rec/share/c0Qv4RK2TFTdAl-wekHjevmezjWYFxnKjUj3sqyyrKvY7ALp0-tbKAB5SKXkYhDX.rX5ODyAlI5JaD-9L)
+- Taller 04 (2024-04-18)
+- Código de acceso: Solicitar por slack.
+
 ## Resumen
 
 En esta clase aprenderemos sobre uno de los componentes fundamentales en JavaScript: ¡funciones! También explicaremos y demostraremos el pair programming, y la propiedad position en CSS.
