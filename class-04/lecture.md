@@ -32,7 +32,7 @@
 
 ## Principio DRY
 - DRY: Dont repeat yourself / no repitas tu código.
-- Cuidad la Legibilidad en el código.
+- Cuida la Legibilidad en el código.
 - Mejora la Mantenibilildad en el código.
 
 ## Funciones
