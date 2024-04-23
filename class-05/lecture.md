@@ -31,3 +31,14 @@ git checkout -b
 ```
 
 - ¿Cómo mezclamos ramas? - Demo
+
+[x] Subimos los cambios a github.com
+[x] Crear un pull request (PR) para comprar a la rama que subimos con la rama `main`
+[x] Esperemos que aprueben nuestros cambios
+[x] Hacemos merge en github.com y eliminamos esa rama
+[x] En local cambiamos a `main` y hacemos pull de los cambios
+[x] Eliminamos la rama a nivel local con el comando
+
+```bash
+git branch -d (branch)
+```
