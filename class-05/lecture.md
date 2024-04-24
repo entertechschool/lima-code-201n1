@@ -15,9 +15,9 @@
 ## Git Branching
 
 - ¿Es posible que varios developers puedan trabajar en el mismo proyecto de forma ordenada?
-- Si, siguiendo una metodología agile y con la creación de ramas
+    - Si, siguiendo una metodología agile y con la creación de ramas
 - ¿Qué es un branch (rama)?
-- Es una copia basada en otra, por defecto en main (recuerden que puede ser de cualquier rama), en la cual podemos experimentar, probar nuevos features del proyecto, etc
+    - Es una copia basada en otra, por defecto en main (recuerden que puede ser de cualquier rama), en la cual podemos experimentar, probar nuevos features del proyecto, etc
 - ¿Cómo creamos nuevas ramas? / git checkout - Demo
 
 ```bash
@@ -33,8 +33,8 @@ git checkout -b
 - ¿Cómo mezclamos ramas? - Demo
 
 [x] Subimos los cambios a github.com
-[x] Crear un pull request (PR) para comprar a la rama que subimos con la rama `main`
-[x] Esperemos que aprueben nuestros cambios
+[x] Crear un pull request (PR) para comparar la rama que subimos vs la rama `main` (destino)
+[x] Esperamos a que aprueben nuestros cambios
 [x] Hacemos merge en github.com y eliminamos esa rama
 [x] En local cambiamos a `main` y hacemos pull de los cambios
 [x] Eliminamos la rama a nivel local con el comando

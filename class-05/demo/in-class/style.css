@@ -1,0 +1,43 @@
+:root {
+    --navHeight: 20px;
+}
+
+header {
+    position: fixed;
+    top: 0px;
+    width: 100%;
+}
+
+nav {
+  background: rgb(2, 0, 36);
+  background: linear-gradient(
+    0deg,
+    rgba(2, 0, 36, 1) 0%,
+    rgba(255, 0, 41, 1) 100%
+  );
+  color: white;
+  width: 70vw;
+  height: var(--navHeight);
+  margin-inline: auto;
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+  display: flex;
+  align-items: center;
+}
+
+ul {
+    display: flex;
+    width: 100%;
+    justify-content: space-around;
+}
+
+main {
+    margin-top: calc(var(--navHeight) + 20px);
+}
+
+@media (min-width: 500px) {
+    img {
+        filter: brightness(0) blur(10px);
+    }
+}
+
