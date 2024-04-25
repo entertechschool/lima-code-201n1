@@ -1,6 +1,6 @@
 # El DOM, Modelos de dominio e Introducción a los objetos
 
-- ¿Qué es un objeto?
+## ¿Qué es un objeto?
     - Algo que contiene atributos y características.
     - Se parece a un array pero tiene algunas diferencias.
         - La principal diferencia es que puedo almacenar diversos tipos de datos como propiedades de un objeto.
@@ -18,6 +18,12 @@
     - Hay 2 formas de crear objetos en Javascript:
         - Objetos Literales (HOY)
         - Objetos de Clase
+
+## ¿Qué es el DOM?
+- Document Object Model.
+- Es la referencia que tenemos desde Javascript para poder acceder al documento HTML al cuál estamos vinculados.
+- A través del objeto `document` podemos acceder a cada nodo HTML y sus respectivas propiedades y funciones.
+
 
 ## Ejemplo del monitor (abstracción):
 - Color de marco (negro).
@@ -43,4 +49,3 @@
 
 
 
-- ¿Qué es el DOM?
