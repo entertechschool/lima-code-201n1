@@ -1,5 +1,10 @@
 # El DOM, Modelos de dominio e Introducción a los objetos
 
+## Grabaciones
+- [Ponencia 05 (2024-04-22)](https://us06web.zoom.us/rec/share/jLwhM4vHcKswg5UgOBgbP0hV3wDXYpHX55On7x6QfZ9uTYi1_porbD4K9YddU1e0.TPWcJ-SWPOFxCc5g)
+- [Taller 05 (2024-04-23)]
+- Código de acceso: Solicitar por slack.
+
 ## Descripción general
 
 - Revisión del código de la tarea de laboratorio de la clase anterior.
