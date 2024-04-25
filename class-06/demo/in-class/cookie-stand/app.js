@@ -73,5 +73,6 @@ for (let i = 0; i < locations.length; i++) {
 
   section.id = location.locationName.toLowerCase();
 
-  document.body.append(section);
+  const main = document.querySelector("main");
+  main.append(section);
 }
