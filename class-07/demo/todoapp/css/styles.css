@@ -1,0 +1,9 @@
+main {
+    width: 70vw;
+    margin: 40px auto;
+}
+
+#form button {
+    background-color: blue;
+    color: white;
+}
