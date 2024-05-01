@@ -6,6 +6,7 @@
 // };
 
 // Class Objects:
+
 function Task(text, dueDate) {
   this.text = text;
   this.dueDate = dueDate;
@@ -17,12 +18,14 @@ function Task(text, dueDate) {
 
 // Si la funcion "imprimir" ocupara 15Kb en Ram, después de instanciar 20 objetos del tipo Task, habrás ocupado: 15Kb.
 Task.prototype.imprimir = function () {
-  console.log("Imprimiendo tarea: " + this.text);
+  console.log("im");
 };
 
 const tarea1 = new Task("Tarea 1", "29/Abril"); // instancia del método consola (numero 1)
 const tarea2 = new Task("Tarea 2", "30/Abril"); // instancia del método consola (numero 2)
 const tarea3 = new Task("Tarea 3", "01/Mayo"); // instancia del método consola (numero 3)
+
+Task.prototype.auto = "Mazda 3";
 
 // Ejemplo de herencia por prototipo:
 
