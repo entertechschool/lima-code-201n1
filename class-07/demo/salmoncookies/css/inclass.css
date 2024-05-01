@@ -1,0 +1,26 @@
+section#tabla {
+    width: 60vw;
+    margin: 20px auto;
+}
+
+section#tabla thead {
+    background-color: #808080;
+    color: white;
+}
+
+section#tabla table {
+    width: 100%;
+}
+
+section#tabla tbody {
+    background-color: #fa7f72;
+}
+
+section#tabla td {
+    border: 1px solid black;
+}
+
+section#tabla tfoot {
+    background-color: #808080;
+    color: white;
+}

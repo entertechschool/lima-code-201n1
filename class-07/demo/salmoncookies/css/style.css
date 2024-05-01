@@ -1,0 +1,102 @@
+* {
+    margin: 0;
+}
+
+header{
+    position:absolute;
+    top: 0px;
+    width: 96%;
+    padding: 2%;
+    background-color: black;
+    color: salmon;
+}
+
+h1{
+    text-align: center;
+    font-size:4vw;
+}
+
+h1,
+.ubicacion h2,
+#seattle h2,
+#tokyo h2,
+#dubai h2,
+#paris h2,
+#lima h2
+{
+    font-family: 'Righteous', sans-serif;
+    font-weight: bold;
+    font-style: italic;
+}
+
+.ubicacion h2,
+#seattle h2,
+#tokyo h2,
+#dubai h2,
+#paris h2,
+#lima h2{
+    margin-top: 50px;
+}
+
+#seattle ul,
+#tokyo ul,
+#dubai ul,
+#paris ul,
+#lima ul{
+    font-family:'Times New Roman', Times, serif;
+    margin-top: 10px;
+    list-style-type: none;
+    color: darkblue;
+    
+}
+
+#seattle ,
+#tokyo ,
+#dubai ,
+#paris ,
+#lima {
+    margin-top: 50px;
+}
+
+.ubicacion ul{
+    margin-top: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: blueviolet;
+}
+
+
+#hero_barra{
+    margin-top: 9%;
+    padding: 1%;
+    background-color: salmon;
+    
+}
+#hero_barra ul{
+    display: flex;
+    justify-content: space-around;
+    list-style-type: none;
+    text-decoration: none; 
+}
+#hero_image{
+    display: flex;
+    justify-content: center;
+    margin : 20px;
+
+   
+}
+
+.texto {
+   
+    float: right; 
+    margin:20px 20px 20px 20px; 
+    padding: 10px; 
+    border: 20px solid black; 
+    background-color: salmon; 
+    width: 500px; 
+    height: 550px;
+    font-size: 200%;
+    font-family: Arial, Helvetica, sans-serif;
+} 
+footer{
+    margin-bottom: 50px;
+}

@@ -1,5 +1,10 @@
 # Programación orientada a objetos con funciones constructoras: Tablas en HTML
 
+## Grabaciones
+- [Ponencia 07 (2024-04-29)](https://us06web.zoom.us/rec/share/ddUUJDN6-kTald3o5nA12nVqZktySEk9fNTELgmaWBShuQebhh-2lvBXJoRB1EOV.1_nK3b73cAld074L)
+- Taller 07 (2024-04-30)
+- Código de acceso: Solicitar por slack.
+
 ## Resumen 
 
 Esta clase introduce la herencia con funciones constructoras, además de añadir otra dimensión al renderizado dinámico del DOM al crear una tabla en vez de listas de datos almacenados en arrays.
