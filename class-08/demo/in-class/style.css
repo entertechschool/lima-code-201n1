@@ -1,0 +1,30 @@
+body {
+    background-color: #999;
+}
+
+section {
+    width: 80vw;
+    height: 80vh;
+    margin: 10vh auto;
+    background-color: black;
+    padding: 10px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: flex-end;
+    flex-wrap: wrap;
+}
+
+section div {
+    border: 1px solid #999;
+    background-color: white;
+    height: 40px;
+    padding: 6px;
+    font-size: x-small;
+    width: 40px;
+    transition: margin-bottom 2s ease;
+}
+
+section div:hover {
+    margin-bottom: 20vh;
+}
