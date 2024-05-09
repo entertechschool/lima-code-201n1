@@ -1,5 +1,11 @@
 # Más sobre CSS: Layout
 
+# Grabaciones
+
+- [Ponencia 08 (2024-05-01)](https://us06web.zoom.us/rec/share/GgnTCxlT6fB7TQTqraq_G-SN1wRrjhgy08KcRN1J5GaYpeTFxH3nRo4ds6T2pUAk.56nHg67nW5-ui1mQ)
+- [Taller 08 (2024-05-02)](https://us06web.zoom.us/rec/share/2tT66WBuORmJUqrWG25py0YlVPeyVPoVhdzN-aj4GnmbUHarCDXB-cBQX4cR43J2.vjzwwmKv724lPst9)
+- Código de acceso: Solicitar por slack.
+- 
 ## Resumen
 
 En esta clase aprenderás sobre el layout de una página utilizando CSS y HTML con un wireframe determinado. También abarcaremos un CSS layout más avanzado, Flexbox.
