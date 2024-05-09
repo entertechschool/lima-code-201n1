@@ -1,5 +1,11 @@
 # Formularios en HTML y Events en JS
 
+# Grabaciones
+
+- [Ponencia 09 (2024-05-06)](https://us06web.zoom.us/rec/share/xMW_9ZrvXVLZAAcV4aiFMJMm41JthCMuBW-U5Lu7FrO1PbUWlfffbG6An5rlQSx-.ZrwFpXFTiWrutftr)
+- [Taller 09 (2024-05-07)](https://us06web.zoom.us/rec/share/we8V3VaN5niOAf7CJZmdtHvB_PdYOXP3tBM1EQY-erohYRUUhHZx3406qhvgVOA.evaTWW5nTFyTQN3J)
+- Código de acceso: Solicitar por slack.
+
 ## Resumen
 
 En esta clase aprenderás acerca de los Events de JavaScript y cómo pueden dar interactividad a tu aplicación. También aprenderás a construir formularios en HTML.

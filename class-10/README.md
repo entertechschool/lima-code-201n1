@@ -1,5 +1,12 @@
 ﻿# Depuración en JS y más CSS: Layout
 
+
+Código de acceso: yst389s#
+
+- [Ponencia 10 (2024-05-08)](https://us06web.zoom.us/rec/share/IBPzYjHbYDIFieL44-qLLtBD-TNWUkMN1eNNsN-kQ16jhRPnusPTAWt7_Wh7XkLt.q3nSFXKDBW9JCEYS)
+- [Taller 07 2024-05-09]
+- Código de acceso: Solicitar por slack.
+
 ## Resumen
 
 Aprender a **depurar** tu código te ayudará a identificar los errores que ves en la consola y cómo arreglarlos.
