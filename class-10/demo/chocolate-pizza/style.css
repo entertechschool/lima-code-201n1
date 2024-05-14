@@ -1,0 +1,135 @@
+* {
+  box-sizing: border-box;
+  --maxwidth: 60vw;
+  --font-brand: "Oswald";
+  --color-brown: #6f664d;
+}
+
+img {
+  display: block;
+}
+
+body {
+  font-family: serif;
+  margin-block: 5vh;
+}
+
+header {
+  width: var(--maxwidth);
+  margin: 0px auto;
+}
+
+nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+  
+}
+
+nav .logo {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+nav .logo img {
+  width: 2rem;
+}
+
+nav .brand {
+  display: flex;
+  flex-direction: column;
+}
+
+nav .brand .title {
+  font-family: "Yellowtail", cursive;
+  font-size: 2rem;
+}
+nav .brand .subtitle {
+  font-family: "Patrick Hand SC", cursive;
+  text-transform: uppercase;
+  font-size: 0.6rem;
+}
+
+nav ul {
+  display: flex;
+  list-style-type: none;
+  gap: 2px;
+}
+
+ul li:nth-child(7) {
+  margin-left: 8px;
+}
+
+nav ul img {
+  width: 20px;
+}
+
+/* hr */
+hr.central {
+    height: 1rem;
+    background: url(../../lab-a/lab-assets/hr-img.png);
+    border: none;
+    width: var(--maxwidth);
+    margin: 2rem auto;
+}
+
+main {
+    width: var(--maxwidth);
+    margin-inline: auto;
+}
+
+/* Recipe */
+section#recipe {
+    background: url(../../lab-a/lab-assets/list-bg.png);
+    padding-top: 2rem;
+    padding-bottom: 5rem;
+    display: flex;
+    justify-content: space-around;
+    color: var(--color-brown);
+}
+
+section#recipe input {
+    transform: scale(0.8);
+    vertical-align: baseline;
+    margin: 0px;
+}
+
+section#recipe label {
+    font-size: 1.2rem;
+    line-height: 1.6;
+    font-family: "Patrick Hand SC";
+    text-transform: lowercase;
+}
+
+:checked + label {
+    text-decoration: line-through;
+    font-weight: 800;
+}
+
+footer {
+    opacity: 0.4;
+    width: var(--maxwidth);
+    margin: 0px auto;
+    background-color: red;
+}
+
+footer section {
+    position: relative;
+}
+
+footer section hr {
+    border-bottom: none;
+    /* border: 3px solid blue; */
+    width: 100%;
+}
+
+footer section img {
+    display: block;
+    position: absolute;
+    top: -25px;
+    left: 50%;
+    border: 5px solid white;
+}
+
