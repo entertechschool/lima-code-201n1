@@ -4,7 +4,7 @@
 Código de acceso: yst389s#
 
 - [Ponencia 10 (2024-05-08)](https://us06web.zoom.us/rec/share/IBPzYjHbYDIFieL44-qLLtBD-TNWUkMN1eNNsN-kQ16jhRPnusPTAWt7_Wh7XkLt.q3nSFXKDBW9JCEYS)
-- [Taller 07 2024-05-09]
+- [Taller 10 2024-05-09](https://us06web.zoom.us/rec/share/-lSHe00FQJlynZUTR_dNQi49xXaDjxzHmBnuNJP-5XYwJ1eAH96ch6Kh0KdtcIp5.vMP3EeRy_TQjE27G)
 - Código de acceso: Solicitar por slack.
 
 ## Resumen
