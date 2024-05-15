@@ -1,5 +1,11 @@
 ﻿# Audio/video, Información práctica y Comenzar con el app Vote Tracker
 
+# Grabaciones
+
+- [Ponencia 11 (2024-05-13)]()
+- [Taller 11 (2024-05-14)](https://us06web.zoom.us/rec/share/iDUu1Xby62dcJ6FIq4rOgfqOE8WUxQrcRcoduhEnx23jyIJk83IdP5P_lacb5p1b.XBXlRxTSBKE7mwvj)
+- Código de acceso: Solicitar por slack.
+
 ## Resumen
 
 Esta clase será el inicio de un nuevo proyecto. También aprenderás un nuevo CSS Layout con flexbox.
