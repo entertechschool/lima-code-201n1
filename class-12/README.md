@@ -1,5 +1,13 @@
 ﻿# Añadir un gráfico a la app Vote Tracker
 
+
+
+# Grabaciones
+
+- [Ponencia 12 (2024-05-15)](https://us06web.zoom.us/rec/share/8Gp34hIyIx0dmlsuOPbGysWdA9e5IjoUDGgD4KO8zk9Gg_SpTXz8SsvlJrWj2Ump.BThPDQOAGGmqcf43)
+- [Taller 12 (2024-05-17)]
+- Código de acceso: Solicitar por slack.
+
 ## Resumen
 
 En esta clase aprenderás a utilizar una librería de terceros para que puedas proporcionar una representación gráfica de los datos de clicks que se han recolectado del vote tracker.
