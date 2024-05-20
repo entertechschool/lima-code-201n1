@@ -5,7 +5,7 @@
 # Grabaciones
 
 - [Ponencia 12 (2024-05-15)](https://us06web.zoom.us/rec/share/8Gp34hIyIx0dmlsuOPbGysWdA9e5IjoUDGgD4KO8zk9Gg_SpTXz8SsvlJrWj2Ump.BThPDQOAGGmqcf43)
-- [Taller 12 (2024-05-17)]
+- [Taller 12 (2024-05-17)](https://us06web.zoom.us/rec/share/oASZvGty9VWaqtvAwYyAmrfFDEhqXO1dhxM6SREgwjGteuKNcAowPNPGQKVqZQHP.03eMqBvNl9PbbeXg)
 - Código de acceso: Solicitar por slack.
 
 ## Resumen
