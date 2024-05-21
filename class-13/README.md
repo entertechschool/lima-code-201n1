@@ -1,5 +1,9 @@
 ﻿# Estado de la aplicación con API de local storage
 
+## Grabaciones
+
+- [Ponencia 13 (2024-05-20)](https://us06web.zoom.us/rec/share/AvhNwKHlO3fIZp582ssTvLcWibkYhcbSbHi6FiJbTLPFOw4fqj8WDpDX58iumtmD.lPLcQFNmR5SsShLU)
+
 ## Resumen
 
 En esta clase aprenderás el concepto de estado de aplicación persistente con local storage.
