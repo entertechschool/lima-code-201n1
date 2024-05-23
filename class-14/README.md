@@ -1,5 +1,9 @@
 ﻿# Animaciones en CSS; Temas de nivel intermedio de JS; Utilizar el local storage para compartir datos entre dos páginas
 
+## Grabaciones
+
+- [Ponencia 14 (2024-05-22)](https://us06web.zoom.us/rec/share/La6TMFtkyxkuJKoHXJnYAVCKKS-gYwVVmCmD1Sr-7YrvhOJaQ2pUuIXjWO81dAgK.8Edvgs8zSKUwtKe8)
+
 ## Resumen
 
 En esta clase vas a aprender sobre las animaciones en CSS, y transicionar de un estilo CSS a otro.  También aprenderás a cargar múltiples archivos JavaScript de múltiples archivos HTML.
