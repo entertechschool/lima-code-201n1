@@ -19,7 +19,7 @@
 
 # Proyectos
 ## Angel y Anthony
-- por verse
+- Cocina para Devs
 
 ## Omar y Ricardo
-- por verse
+- Polla para la Copa América 2024
