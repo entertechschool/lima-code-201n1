@@ -1,5 +1,9 @@
 ﻿# Semana del proyecto: Hito 1
 
+## Grabaciones
+
+- [Ponencia 16 (2024-05-29)](https://us06web.zoom.us/rec/share/RkLIFfwcUpEn0T5Q9hh78nfHP6ZsaxEeC4flDNfrjUgfXuOrJMniI-Uf8jTCukQc.1gAcb97WrzPKmxOc)
+
 ## Fase de planificación
 
 ¡Bienvenido a la semana del proyecto! El primer día se trata de examinar tu proyecto y comenzar a planearlo. Tienes mucho que hacer hoy... comencemos.
