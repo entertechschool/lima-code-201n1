@@ -3,6 +3,7 @@
 ## Grabaciones
 
 - [Ponencia 16 (2024-05-29)](https://us06web.zoom.us/rec/share/RkLIFfwcUpEn0T5Q9hh78nfHP6ZsaxEeC4flDNfrjUgfXuOrJMniI-Uf8jTCukQc.1gAcb97WrzPKmxOc)
+- [Revision 1 (2024-06-04)](https://us06web.zoom.us/rec/share/x4LDaleic52n9yGOIH6EVPYamt108xSxxY-SFPxqfP9FE1agmCy9ZBVVH4xwz0dE.LW3NOjwfMQLUNjWb) Código de acceso: .*3HpDmN
 
 ## Fase de planificación
 
